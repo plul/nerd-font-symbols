@@ -1,0 +1,12 @@
+[package]
+name = "nerd-font-symbols"
+description = "Nerd Fonts Symbols"
+authors.workspace = true
+version.workspace = true
+edition.workspace = true
+readme.workspace = true
+license.workspace = true
+publish = true
+homepage = "https://github.com/plul/nerd-font-symbols"
+repository = "https://github.com/plul/nerd-font-symbols"
+documentation = "https://docs.rs/nerd-font-symbols"

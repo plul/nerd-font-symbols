@@ -1,0 +1,9 @@
+[package]
+name = "generator"
+authors.workspace = true
+version.workspace = true
+edition.workspace = true
+publish = false
+
+[dependencies]
+regex = "1"
