@@ -2,6 +2,8 @@
 
 A `const <NAME>: &str = "<symbol>"` definition for each of the symbols in [Nerd Fonts](https://www.nerdfonts.com/).
 
+Documentation: <https://docs.rs/nerd-font-symbols>.
+
 ## Usage
 
 ```toml
