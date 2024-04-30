@@ -8,7 +8,7 @@ Documentation: <https://docs.rs/nerd-font-symbols>.
 
 ```toml
 [dependencies]
-nerd-font-symbols = "0.1"
+nerd-font-symbols = "0.2"
 ```
 
 ```rust
