@@ -492,8 +492,8 @@ pub const MD_ALPHA_H_BOX_OUTLINE: &str = "󰰀";
 pub const MD_ALPHA_H_CIRCLE: &str = "󰰁";
 /// `󰰂`
 pub const MD_ALPHA_H_CIRCLE_OUTLINE: &str = "󰰂";
-/// `󱂈`
-pub const MD_ALPHA_I: &str = "󱂈";
+/// `󰫶`
+pub const MD_ALPHA_I: &str = "󰫶";
 /// `󰬐`
 pub const MD_ALPHA_I_BOX: &str = "󰬐";
 /// `󰰃`
@@ -522,8 +522,8 @@ pub const MD_ALPHA_K_BOX_OUTLINE: &str = "󰰉";
 pub const MD_ALPHA_K_CIRCLE: &str = "󰰊";
 /// `󰰋`
 pub const MD_ALPHA_K_CIRCLE_OUTLINE: &str = "󰰋";
-/// `󱎦`
-pub const MD_ALPHA_L: &str = "󱎦";
+/// `󰫹`
+pub const MD_ALPHA_L: &str = "󰫹";
 /// `󰬓`
 pub const MD_ALPHA_L_BOX: &str = "󰬓";
 /// `󰰌`
@@ -552,16 +552,16 @@ pub const MD_ALPHA_N_BOX_OUTLINE: &str = "󰰒";
 pub const MD_ALPHA_N_CIRCLE: &str = "󰰓";
 /// `󰰔`
 pub const MD_ALPHA_N_CIRCLE_OUTLINE: &str = "󰰔";
-/// `󰬹`
-pub const MD_ALPHA_O: &str = "󰬹";
+/// `󰫼`
+pub const MD_ALPHA_O: &str = "󰫼";
 /// `󰬖`
 pub const MD_ALPHA_O_BOX: &str = "󰬖";
 /// `󰰕`
 pub const MD_ALPHA_O_BOX_OUTLINE: &str = "󰰕";
-/// `󰲞`
-pub const MD_ALPHA_O_CIRCLE: &str = "󰲞";
-/// `󰲟`
-pub const MD_ALPHA_O_CIRCLE_OUTLINE: &str = "󰲟";
+/// `󰰖`
+pub const MD_ALPHA_O_CIRCLE: &str = "󰰖";
+/// `󰰗`
+pub const MD_ALPHA_O_CIRCLE_OUTLINE: &str = "󰰗";
 /// `󰫽`
 pub const MD_ALPHA_P: &str = "󰫽";
 /// `󰬗`
@@ -622,8 +622,8 @@ pub const MD_ALPHA_U_BOX_OUTLINE: &str = "󰰧";
 pub const MD_ALPHA_U_CIRCLE: &str = "󰰨";
 /// `󰰩`
 pub const MD_ALPHA_U_CIRCLE_OUTLINE: &str = "󰰩";
-/// `󱂌`
-pub const MD_ALPHA_V: &str = "󱂌";
+/// `󰬃`
+pub const MD_ALPHA_V: &str = "󰬃";
 /// `󰬝`
 pub const MD_ALPHA_V_BOX: &str = "󰬝";
 /// `󰰪`
@@ -642,8 +642,8 @@ pub const MD_ALPHA_W_BOX_OUTLINE: &str = "󰰭";
 pub const MD_ALPHA_W_CIRCLE: &str = "󰰮";
 /// `󰰯`
 pub const MD_ALPHA_W_CIRCLE_OUTLINE: &str = "󰰯";
-/// `󱂑`
-pub const MD_ALPHA_X: &str = "󱂑";
+/// `󰬅`
+pub const MD_ALPHA_X: &str = "󰬅";
 /// `󰬟`
 pub const MD_ALPHA_X_BOX: &str = "󰬟";
 /// `󰰰`
@@ -3154,10 +3154,10 @@ pub const MD_CHECKBOX_BLANK: &str = "󰄮";
 pub const MD_CHECKBOX_BLANK_BADGE: &str = "󱅶";
 /// `󰄗`
 pub const MD_CHECKBOX_BLANK_BADGE_OUTLINE: &str = "󰄗";
-/// `󰝥`
-pub const MD_CHECKBOX_BLANK_CIRCLE: &str = "󰝥";
-/// `󰝦`
-pub const MD_CHECKBOX_BLANK_CIRCLE_OUTLINE: &str = "󰝦";
+/// `󰄯`
+pub const MD_CHECKBOX_BLANK_CIRCLE: &str = "󰄯";
+/// `󰄰`
+pub const MD_CHECKBOX_BLANK_CIRCLE_OUTLINE: &str = "󰄰";
 /// `󱋬`
 pub const MD_CHECKBOX_BLANK_OFF: &str = "󱋬";
 /// `󱋭`
@@ -5088,8 +5088,8 @@ pub const MD_EXCLAMATION: &str = "󰈅";
 pub const MD_EXCLAMATION_THICK: &str = "󱈸";
 /// `󰩈`
 pub const MD_EXIT_RUN: &str = "󰩈";
-/// `󰗼`
-pub const MD_EXIT_TO_APP: &str = "󰗼";
+/// `󰈆`
+pub const MD_EXIT_TO_APP: &str = "󰈆";
 /// `󰪴`
 pub const MD_EXPAND_ALL: &str = "󰪴";
 /// `󰪵`
@@ -6974,8 +6974,8 @@ pub const MD_HEADSET: &str = "󰋎";
 pub const MD_HEADSET_DOCK: &str = "󰋏";
 /// `󰋐`
 pub const MD_HEADSET_OFF: &str = "󰋐";
-/// `󰣐`
-pub const MD_HEART: &str = "󰣐";
+/// `󰋑`
+pub const MD_HEART: &str = "󰋑";
 /// `󰋒`
 pub const MD_HEART_BOX: &str = "󰋒";
 /// `󰋓`
@@ -7012,8 +7012,8 @@ pub const MD_HEART_MULTIPLE_OUTLINE: &str = "󰩗";
 pub const MD_HEART_OFF: &str = "󰝙";
 /// `󱐴`
 pub const MD_HEART_OFF_OUTLINE: &str = "󱐴";
-/// `󱢠`
-pub const MD_HEART_OUTLINE: &str = "󱢠";
+/// `󰋕`
+pub const MD_HEART_OUTLINE: &str = "󰋕";
 /// `󱐮`
 pub const MD_HEART_PLUS: &str = "󱐮";
 /// `󱐱`
@@ -7386,8 +7386,8 @@ pub const MD_IMAGE_FILTER_CENTER_FOCUS_WEAK: &str = "󰋲";
 pub const MD_IMAGE_FILTER_DRAMA: &str = "󰋳";
 /// `󰋴`
 pub const MD_IMAGE_FILTER_FRAMES: &str = "󰋴";
-/// `󰔉`
-pub const MD_IMAGE_FILTER_HDR: &str = "󰔉";
+/// `󰋵`
+pub const MD_IMAGE_FILTER_HDR: &str = "󰋵";
 /// `󰋶`
 pub const MD_IMAGE_FILTER_NONE: &str = "󰋶";
 /// `󰋷`
@@ -8884,8 +8884,8 @@ pub const MD_MUSIC_CLEF_ALTO: &str = "󰽮";
 pub const MD_MUSIC_CLEF_BASS: &str = "󰽯";
 /// `󰽰`
 pub const MD_MUSIC_CLEF_TREBLE: &str = "󰽰";
-/// `󰎈`
-pub const MD_MUSIC_NOTE: &str = "󰎈";
+/// `󰎇`
+pub const MD_MUSIC_NOTE: &str = "󰎇";
 /// `󰗾`
 pub const MD_MUSIC_NOTE_BLUETOOTH: &str = "󰗾";
 /// `󰗿`
@@ -8946,8 +8946,8 @@ pub const MD_NAVIGATION: &str = "󰎐";
 pub const MD_NAVIGATION_OUTLINE: &str = "󱘇";
 /// `󱣱`
 pub const MD_NAVIGATION_VARIANT_OUTLINE: &str = "󱣱";
-/// `󱣰`
-pub const MD_NEAR_ME: &str = "󱣰";
+/// `󰗍`
+pub const MD_NEAR_ME: &str = "󰗍";
 /// `󰼋`
 pub const MD_NECKLACE: &str = "󰼋";
 /// `󰎑`

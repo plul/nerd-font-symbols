@@ -8,6 +8,14 @@ pub const COD_ADD: &str = "";
 pub const COD_ARCHIVE: &str = "";
 /// ``
 pub const COD_ARROW_BOTH: &str = "";
+/// ``
+pub const COD_ARROW_CIRCLE_DOWN: &str = "";
+/// ``
+pub const COD_ARROW_CIRCLE_LEFT: &str = "";
+/// ``
+pub const COD_ARROW_CIRCLE_RIGHT: &str = "";
+/// ``
+pub const COD_ARROW_CIRCLE_UP: &str = "";
 /// ``
 pub const COD_ARROW_DOWN: &str = "";
 /// ``
@@ -38,6 +46,12 @@ pub const COD_BEAKER_STOP: &str = "";
 pub const COD_BELL: &str = "";
 /// ``
 pub const COD_BELL_DOT: &str = "";
+/// ``
+pub const COD_BELL_SLASH: &str = "";
+/// ``
+pub const COD_BELL_SLASH_DOT: &str = "";
+/// ``
+pub const COD_BLANK: &str = "";
 /// ``
 pub const COD_BOLD: &str = "";
 /// ``
@@ -78,6 +92,8 @@ pub const COD_CHEVRON_LEFT: &str = "";
 pub const COD_CHEVRON_RIGHT: &str = "";
 /// ``
 pub const COD_CHEVRON_UP: &str = "";
+/// ``
+pub const COD_CHIP: &str = "";
 /// ``
 pub const COD_CHROME_CLOSE: &str = "";
 /// ``
@@ -96,6 +112,8 @@ pub const COD_CIRCLE_LARGE: &str = "";
 pub const COD_CIRCLE_LARGE_FILLED: &str = "";
 /// ``
 pub const COD_CIRCLE_SLASH: &str = "";
+/// ``
+pub const COD_CIRCLE_SMALL: &str = "";
 /// ``
 pub const COD_CIRCLE_SMALL_FILLED: &str = "";
 /// ``
@@ -116,6 +134,8 @@ pub const COD_CLOUD_DOWNLOAD: &str = "";
 pub const COD_CLOUD_UPLOAD: &str = "";
 /// ``
 pub const COD_CODE: &str = "";
+/// ``
+pub const COD_COFFEE: &str = "";
 /// ``
 pub const COD_COLLAPSE_ALL: &str = "";
 /// ``
@@ -126,12 +146,18 @@ pub const COD_COMBINE: &str = "";
 pub const COD_COMMENT: &str = "";
 /// ``
 pub const COD_COMMENT_DISCUSSION: &str = "";
+/// ``
+pub const COD_COMMENT_DRAFT: &str = "";
+/// ``
+pub const COD_COMMENT_UNRESOLVED: &str = "";
 /// ``
 pub const COD_COMPASS: &str = "";
 /// ``
 pub const COD_COMPASS_ACTIVE: &str = "";
 /// ``
 pub const COD_COMPASS_DOT: &str = "";
+/// ``
+pub const COD_COPILOT: &str = "";
 /// ``
 pub const COD_COPY: &str = "";
 /// ``
@@ -238,6 +264,8 @@ pub const COD_ELLIPSIS: &str = "";
 pub const COD_EMPTY_WINDOW: &str = "";
 /// ``
 pub const COD_ERROR: &str = "";
+/// ``
+pub const COD_ERROR_SMALL: &str = "";
 /// ``
 pub const COD_EXCLUDE: &str = "";
 /// ``
@@ -292,6 +320,8 @@ pub const COD_FOLDER_ACTIVE: &str = "";
 pub const COD_FOLDER_LIBRARY: &str = "";
 /// ``
 pub const COD_FOLDER_OPENED: &str = "";
+/// ``
+pub const COD_GAME: &str = "";
 /// ``
 pub const COD_GEAR: &str = "";
 /// ``
@@ -302,6 +332,8 @@ pub const COD_GIST_SECRET: &str = "";
 pub const COD_GIT_COMMIT: &str = "";
 /// ``
 pub const COD_GIT_COMPARE: &str = "";
+/// ``
+pub const COD_GIT_FETCH: &str = "";
 /// ``
 pub const COD_GIT_MERGE: &str = "";
 /// ``
@@ -312,6 +344,10 @@ pub const COD_GIT_PULL_REQUEST_CLOSED: &str = "";
 pub const COD_GIT_PULL_REQUEST_CREATE: &str = "";
 /// ``
 pub const COD_GIT_PULL_REQUEST_DRAFT: &str = "";
+/// ``
+pub const COD_GIT_PULL_REQUEST_GO_TO_CHANGES: &str = "";
+/// ``
+pub const COD_GIT_PULL_REQUEST_NEW_CHANGES: &str = "";
 /// ``
 pub const COD_GITHUB: &str = "";
 /// ``
@@ -340,6 +376,8 @@ pub const COD_GRIPPER: &str = "";
 pub const COD_GROUP_BY_REF_TYPE: &str = "";
 /// ``
 pub const COD_HEART: &str = "";
+/// ``
+pub const COD_HEART_FILLED: &str = "";
 /// ``
 pub const COD_HISTORY: &str = "";
 /// ``
@@ -350,8 +388,12 @@ pub const COD_HORIZONTAL_RULE: &str = "";
 pub const COD_HUBOT: &str = "";
 /// ``
 pub const COD_INBOX: &str = "";
+/// ``
+pub const COD_INDENT: &str = "";
 /// ``
 pub const COD_INFO: &str = "";
+/// ``
+pub const COD_INSERT: &str = "";
 /// ``
 pub const COD_INSPECT: &str = "";
 /// ``
@@ -380,6 +422,36 @@ pub const COD_LAYERS_ACTIVE: &str = "";
 pub const COD_LAYERS_DOT: &str = "";
 /// ``
 pub const COD_LAYOUT: &str = "";
+/// ``
+pub const COD_LAYOUT_ACTIVITYBAR_LEFT: &str = "";
+/// ``
+pub const COD_LAYOUT_ACTIVITYBAR_RIGHT: &str = "";
+/// ``
+pub const COD_LAYOUT_CENTERED: &str = "";
+/// ``
+pub const COD_LAYOUT_MENUBAR: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL_CENTER: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL_JUSTIFY: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL_LEFT: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL_OFF: &str = "";
+/// ``
+pub const COD_LAYOUT_PANEL_RIGHT: &str = "";
+/// ``
+pub const COD_LAYOUT_SIDEBAR_LEFT: &str = "";
+/// ``
+pub const COD_LAYOUT_SIDEBAR_LEFT_OFF: &str = "";
+/// ``
+pub const COD_LAYOUT_SIDEBAR_RIGHT: &str = "";
+/// ``
+pub const COD_LAYOUT_SIDEBAR_RIGHT_OFF: &str = "";
+/// ``
+pub const COD_LAYOUT_STATUSBAR: &str = "";
 /// ``
 pub const COD_LIBRARY: &str = "";
 /// ``
@@ -418,6 +490,10 @@ pub const COD_MAGNET: &str = "";
 pub const COD_MAIL: &str = "";
 /// ``
 pub const COD_MAIL_READ: &str = "";
+/// ``
+pub const COD_MAP: &str = "";
+/// ``
+pub const COD_MAP_FILLED: &str = "";
 /// ``
 pub const COD_MARKDOWN: &str = "";
 /// ``
@@ -428,6 +504,10 @@ pub const COD_MENTION: &str = "";
 pub const COD_MENU: &str = "";
 /// ``
 pub const COD_MERGE: &str = "";
+/// ``
+pub const COD_MIC: &str = "";
+/// ``
+pub const COD_MIC_FILLED: &str = "";
 /// ``
 pub const COD_MILESTONE: &str = "";
 /// ``
@@ -438,6 +518,8 @@ pub const COD_MORTAR_BOARD: &str = "";
 pub const COD_MOVE: &str = "";
 /// ``
 pub const COD_MULTIPLE_WINDOWS: &str = "";
+/// ``
+pub const COD_MUSIC: &str = "";
 /// ``
 pub const COD_MUTE: &str = "";
 /// ``
@@ -474,6 +556,8 @@ pub const COD_PASS_FILLED: &str = "";
 pub const COD_PERSON: &str = "";
 /// ``
 pub const COD_PERSON_ADD: &str = "";
+/// ``
+pub const COD_PIANO: &str = "";
 /// ``
 pub const COD_PIE_CHART: &str = "";
 /// ``
@@ -510,6 +594,8 @@ pub const COD_REACTIONS: &str = "";
 pub const COD_RECORD: &str = "";
 /// ``
 pub const COD_RECORD_KEYS: &str = "";
+/// ``
+pub const COD_RECORD_SMALL: &str = "";
 /// ``
 pub const COD_REDO: &str = "";
 /// ``
@@ -576,8 +662,12 @@ pub const COD_SCREEN_FULL: &str = "";
 pub const COD_SCREEN_NORMAL: &str = "";
 /// ``
 pub const COD_SEARCH: &str = "";
+/// ``
+pub const COD_SEARCH_FUZZY: &str = "";
 /// ``
 pub const COD_SEARCH_STOP: &str = "";
+/// ``
+pub const COD_SEND: &str = "";
 /// ``
 pub const COD_SERVER: &str = "";
 /// ``
@@ -596,10 +686,14 @@ pub const COD_SIGN_IN: &str = "";
 pub const COD_SIGN_OUT: &str = "";
 /// ``
 pub const COD_SMILEY: &str = "";
+/// ``
+pub const COD_SNAKE: &str = "";
 /// ``
 pub const COD_SORT_PRECEDENCE: &str = "";
 /// ``
 pub const COD_SOURCE_CONTROL: &str = "";
+/// ``
+pub const COD_SPARKLE: &str = "";
 /// ``
 pub const COD_SPLIT_HORIZONTAL: &str = "";
 /// ``
@@ -672,6 +766,8 @@ pub const COD_SYNC_IGNORED: &str = "";
 pub const COD_TABLE: &str = "";
 /// ``
 pub const COD_TAG: &str = "";
+/// ``
+pub const COD_TARGET: &str = "";
 /// ``
 pub const COD_TASKLIST: &str = "";
 /// ``
@@ -698,8 +794,12 @@ pub const COD_TEXT_SIZE: &str = "";
 pub const COD_THREE_BARS: &str = "";
 /// ``
 pub const COD_THUMBSDOWN: &str = "";
+/// ``
+pub const COD_THUMBSDOWN_FILLED: &str = "";
 /// ``
 pub const COD_THUMBSUP: &str = "";
+/// ``
+pub const COD_THUMBSUP_FILLED: &str = "";
 /// ``
 pub const COD_TOOLS: &str = "";
 /// ``
@@ -748,6 +848,8 @@ pub const COD_VM_CONNECT: &str = "";
 pub const COD_VM_OUTLINE: &str = "";
 /// ``
 pub const COD_VM_RUNNING: &str = "";
+/// ``
+pub const COD_VR: &str = "";
 /// ``
 pub const COD_WAND: &str = "";
 /// ``

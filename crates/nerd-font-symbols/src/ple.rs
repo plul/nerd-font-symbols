@@ -42,6 +42,8 @@ pub const PLE_ICE_WAVEFORM_MIRRORED: &str = "";
 pub const PLE_LEFT_HALF_CIRCLE_THICK: &str = "";
 /// ``
 pub const PLE_LEFT_HALF_CIRCLE_THIN: &str = "";
+/// ``
+pub const PLE_LEFT_HARD_DIVIDER_INVERSE: &str = "";
 /// ``
 pub const PLE_LEGO_BLOCK_FACING: &str = "";
 /// ``
@@ -66,6 +68,8 @@ pub const PLE_PIXELATED_SQUARES_SMALL_MIRRORED: &str = "";
 pub const PLE_RIGHT_HALF_CIRCLE_THICK: &str = "";
 /// ``
 pub const PLE_RIGHT_HALF_CIRCLE_THIN: &str = "";
+/// ``
+pub const PLE_RIGHT_HARD_DIVIDER_INVERSE: &str = "";
 /// ``
 pub const PLE_TRAPEZOID_TOP_BOTTOM: &str = "";
 /// ``

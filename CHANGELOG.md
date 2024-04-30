@@ -1,7 +1,9 @@
 # Changelog
 
-## Unreleased - 2023-mm-dd
+## Unreleased
 
-## v0.1.0 - 2023-06-04
+- Update: Aligned with Nerd Font Symbols version `v3.2.1`.
 
-- Targeted Nerd Fonts version: 3.0.1
+## v0.1.0
+
+- Aligned with Nerd Font Symbols version `v3.0.1`.

@@ -1,7 +1,13 @@
+/// ``
+pub const CUSTOM_ADA: &str = "";
 /// ``
 pub const CUSTOM_ASM: &str = "";
+/// ``
+pub const CUSTOM_ASTRO: &str = "";
 /// ``
 pub const CUSTOM_C: &str = "";
+/// ``
+pub const CUSTOM_COMMON_LISP: &str = "";
 /// ``
 pub const CUSTOM_CPP: &str = "";
 /// ``
@@ -16,6 +22,8 @@ pub const CUSTOM_ELIXIR: &str = "";
 pub const CUSTOM_ELM: &str = "";
 /// ``
 pub const CUSTOM_EMACS: &str = "";
+/// ``
+pub const CUSTOM_FENNEL: &str = "";
 /// ``
 pub const CUSTOM_FOLDER: &str = "";
 /// ``
@@ -38,12 +46,20 @@ pub const CUSTOM_HOME: &str = "";
 pub const CUSTOM_KOTLIN: &str = "";
 /// ``
 pub const CUSTOM_MSDOS: &str = "";
+/// ``
+pub const CUSTOM_NEOVIM: &str = "";
 /// ``
 pub const CUSTOM_ORGMODE: &str = "";
 /// ``
 pub const CUSTOM_PLAY_ARROW: &str = "";
+/// ``
+pub const CUSTOM_PRETTIER: &str = "";
 /// ``
 pub const CUSTOM_PURESCRIPT: &str = "";
+/// ``
+pub const CUSTOM_SCHEME: &str = "";
+/// ``
+pub const CUSTOM_TOML: &str = "";
 /// ``
 pub const CUSTOM_V_LANG: &str = "";
 /// ``
