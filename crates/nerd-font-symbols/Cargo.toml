@@ -10,3 +10,6 @@ publish = true
 homepage = "https://github.com/plul/nerd-font-symbols"
 repository = "https://github.com/plul/nerd-font-symbols"
 documentation = "https://docs.rs/nerd-font-symbols"
+
+[lints]
+workspace = true

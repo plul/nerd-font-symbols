@@ -1,5 +1,6 @@
 [workspace]
 members = ["crates/nerd-font-symbols", "crates/generator"]
+resolver = "2"
 
 [workspace.package]
 authors = ["Asger Juul Brunshøj"]
@@ -8,3 +9,10 @@ edition = "2021"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/plul/nerd-font-symbols"
+
+[workspace.lints.rust]
+future_incompatible = "deny"
+nonstandard_style = "deny"
+rust_2018_idioms = "deny"
+missing_docs = "warn"
+missing_debug_implementations = "warn"

@@ -1,3 +1,5 @@
+#![doc = env!("CARGO_PKG_DESCRIPTION")]
+
 use std::{
     collections::BTreeMap,
     io::{self, BufRead},

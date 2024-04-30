@@ -4,6 +4,10 @@ authors.workspace = true
 version.workspace = true
 edition.workspace = true
 publish = false
+description = "Generates the modules in the main crate"
 
 [dependencies]
 regex = "1"
+
+[lints]
+workspace = true
