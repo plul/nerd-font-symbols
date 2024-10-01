@@ -11,8 +11,8 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/plul/nerd-font-symbols"
 
 [workspace.lints.rust]
-future_incompatible = "deny"
-nonstandard_style = "deny"
-rust_2018_idioms = "deny"
+future_incompatible = { level = "deny", priority = -1 }
+nonstandard_style = { level = "deny", priority = -1 }
+rust_2018_idioms = { level = "deny", priority = -1 }
 missing_docs = "warn"
 missing_debug_implementations = "warn"
