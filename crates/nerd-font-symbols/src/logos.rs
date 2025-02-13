@@ -118,6 +118,22 @@ pub const LINUX_KRITA: &str = "";
 pub const LINUX_KUBUNTU: &str = "";
 /// ``
 pub const LINUX_KUBUNTU_INVERSE: &str = "";
+/// ``
+pub const LINUX_LEAP: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICE: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICEBASE: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICECALC: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICEDRAW: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICEIMPRESS: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICEMATH: &str = "";
+/// ``
+pub const LINUX_LIBREOFFICEWRITER: &str = "";
 /// ``
 pub const LINUX_LINUXMINT: &str = "";
 /// ``
@@ -146,6 +162,8 @@ pub const LINUX_MXLINUX: &str = "";
 pub const LINUX_NEOVIM: &str = "";
 /// ``
 pub const LINUX_NIXOS: &str = "";
+/// ``
+pub const LINUX_NOBARA: &str = "";
 /// ``
 pub const LINUX_OCTOPRINT: &str = "";
 /// ``
@@ -186,6 +204,8 @@ pub const LINUX_REDHAT: &str = "";
 pub const LINUX_REPRAP: &str = "";
 /// ``
 pub const LINUX_RISCV: &str = "";
+/// ``
+pub const LINUX_RIVER: &str = "";
 /// ``
 pub const LINUX_ROCKY_LINUX: &str = "";
 /// ``
@@ -208,8 +228,12 @@ pub const LINUX_THUNDERBIRD: &str = "";
 pub const LINUX_TOR: &str = "";
 /// ``
 pub const LINUX_TRISQUEL: &str = "";
+/// ``
+pub const LINUX_TUMBLEWEED: &str = "";
 /// ``
 pub const LINUX_TUX: &str = "";
+/// ``
+pub const LINUX_TYPST: &str = "";
 /// ``
 pub const LINUX_UBUNTU: &str = "";
 /// ``

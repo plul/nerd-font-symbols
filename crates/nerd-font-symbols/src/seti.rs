@@ -4,8 +4,12 @@ pub const CUSTOM_ADA: &str = "";
 pub const CUSTOM_ASM: &str = "";
 /// ``
 pub const CUSTOM_ASTRO: &str = "";
+/// ``
+pub const CUSTOM_BAZEL: &str = "";
 /// ``
 pub const CUSTOM_C: &str = "";
+/// ``
+pub const CUSTOM_CHUCK: &str = "";
 /// ``
 pub const CUSTOM_COMMON_LISP: &str = "";
 /// ``
@@ -24,6 +28,8 @@ pub const CUSTOM_ELM: &str = "";
 pub const CUSTOM_EMACS: &str = "";
 /// ``
 pub const CUSTOM_FENNEL: &str = "";
+/// ``
+pub const CUSTOM_FIREBASE: &str = "";
 /// ``
 pub const CUSTOM_FOLDER: &str = "";
 /// ``
@@ -56,6 +62,8 @@ pub const CUSTOM_PLAY_ARROW: &str = "";
 pub const CUSTOM_PRETTIER: &str = "";
 /// ``
 pub const CUSTOM_PURESCRIPT: &str = "";
+/// ``
+pub const CUSTOM_RUBY: &str = "";
 /// ``
 pub const CUSTOM_SCHEME: &str = "";
 /// ``
@@ -64,6 +72,8 @@ pub const CUSTOM_TOML: &str = "";
 pub const CUSTOM_V_LANG: &str = "";
 /// ``
 pub const CUSTOM_VIM: &str = "";
+/// ``
+pub const CUSTOM_VITRUVIAN: &str = "";
 /// ``
 pub const CUSTOM_WINDOWS: &str = "";
 /// ``
@@ -78,8 +88,6 @@ pub const SETI_ASM: &str = "";
 pub const SETI_AUDIO: &str = "";
 /// ``
 pub const SETI_BABEL: &str = "";
-/// ``
-pub const SETI_BAZEL: &str = "";
 /// ``
 pub const SETI_BICEP: &str = "";
 /// ``
@@ -150,8 +158,6 @@ pub const SETI_ETHEREUM: &str = "";
 pub const SETI_F_SHARP: &str = "";
 /// ``
 pub const SETI_FAVICON: &str = "";
-/// ``
-pub const SETI_FIREBASE: &str = "";
 /// ``
 pub const SETI_FIREFOX: &str = "";
 /// ``
@@ -298,8 +304,6 @@ pub const SETI_REASONML: &str = "";
 pub const SETI_RESCRIPT: &str = "";
 /// ``
 pub const SETI_ROLLUP: &str = "";
-/// ``
-pub const SETI_RUBY: &str = "";
 /// ``
 pub const SETI_RUST: &str = "";
 /// ``

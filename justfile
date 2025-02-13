@@ -1,4 +1,4 @@
-NERD_FONT_VERSION := "v3.2.1"
+NERD_FONT_VERSION := "v3.3.0"
 
 _list:
     @just --list --unsorted
